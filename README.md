@@ -1,7 +1,13 @@
-### Hi there 👋
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=Merry y'all&fontSize=50&animation=twinkling" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blingbn&layout=compact)](https://github.com/blingbn/github-readme-stats)
 
 <!--
 **blingbn/blingbn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+🌱 Front-end Stack 🌱
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 
 Here are some ideas to get you started:
 
