@@ -1,6 +1,4 @@
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=웹개발하는 한량&fontSize=50&animation=twinkling" />
-</div>
 
 <br />
 <br />
